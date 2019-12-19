@@ -194,5 +194,4 @@ const SipHash = (() => {
     };
 })();
 
-var module = module || {},
-    exports = module.exports = SipHash;
+export default SipHash
